@@ -1,0 +1,6 @@
+"categoria","estado","region","provincia","nombre_hotel","dia","mes","año","feriado","dia_semana","no_camas","tina_hidromasaje","internet","total_habitaciones","disponible","reservado","no_disponible","ingreso"
+5,"Ciudad de México","Norte","Provincia 1","Hotel Sol",12,9,2023,"N","Martes",2,"S","S",100,80,15,5,"25000.5"
+4,"Jalisco","Centro","Provincia 2","Hotel Luna",13,9,2023,"N","Miércoles",1,"N","S",50,40,8,2,"12000"
+3,"Yucatán","Sur","Provincia 3","Hotel Estrella",14,9,2023,"N","Jueves",3,"N","S",80,65,12,3,"20000.75"
+5,"Nuevo León","Norte","Provincia 4","Hotel Cometa",15,9,2023,"S","Viernes",2,"N","N",150,120,25,5,"15000"
+2,"Veracruz","Este","Provincia 5","Hotel Viento",16,9,2023,"N","Sábado",1,"S","N",90,70,18,2,"18000.65"
